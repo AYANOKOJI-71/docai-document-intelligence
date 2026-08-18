@@ -14,3 +14,4 @@
 - [x] Run type checks and tests, then visually verify desktop and mobile views.
 - [x] Save a verified project checkpoint and deliver the completed application.
 - [x] Rename all visible DocuMind branding and application metadata to DocAI.
+- [ ] Push the verified DocAI source code to a private GitHub repository.
