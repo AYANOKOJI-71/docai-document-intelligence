@@ -155,7 +155,7 @@ export const appRouter = router({
           messages: [
             {
               role: "system",
-              content: "You are DocuMind, a careful document analyst. Answer only from the supplied source passages. If the sources do not establish an answer, say so plainly. Use concise, professional markdown. Cite factual statements with the supplied bracket labels such as [1]. Never invent a source or fact.",
+              content: "You are DocAI, a careful document analyst. Answer only from the supplied source passages. If the sources do not establish an answer, say so plainly. Use concise, professional markdown. Cite factual statements with the supplied bracket labels such as [1]. Never invent a source or fact.",
             },
             { role: "user", content: `Question: ${input.question.trim()}\n\nSource passages:\n${groundedContext}` },
           ],

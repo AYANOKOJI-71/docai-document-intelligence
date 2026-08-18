@@ -38,7 +38,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="relative">
             <div className="mb-10 flex items-center gap-3">
               <div className="flex size-10 items-center justify-center rounded-2xl bg-[#202d59] text-white shadow-lg shadow-indigo-950/15"><BookOpenText className="size-5" /></div>
-              <span className="text-lg font-extrabold tracking-[-0.04em] text-[#202d59]">DocuMind</span>
+              <span className="text-lg font-extrabold tracking-[-0.04em] text-[#202d59]">DocAI</span>
             </div>
             <p className="mono mb-4 text-[10px] font-medium uppercase tracking-[0.22em] text-indigo-600">Private knowledge workspace</p>
             <h1 className="serif-display max-w-md text-4xl leading-[1.02] text-[#172342] sm:text-5xl">Documents become answers you can trust.</h1>
@@ -58,7 +58,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="flex items-center gap-3 overflow-hidden group-data-[collapsible=icon]:justify-center">
             <div className="flex size-9 shrink-0 items-center justify-center rounded-xl bg-[#202d59] text-white shadow-md shadow-indigo-950/15"><BookOpenText className="size-[18px]" /></div>
             <div className="min-w-0 group-data-[collapsible=icon]:hidden">
-              <p className="font-extrabold tracking-[-0.04em] text-[#202d59]">DocuMind</p>
+              <p className="font-extrabold tracking-[-0.04em] text-[#202d59]">DocAI</p>
               <p className="mono mt-0.5 text-[9px] uppercase tracking-[0.13em] text-slate-400">Knowledge base</p>
             </div>
           </div>

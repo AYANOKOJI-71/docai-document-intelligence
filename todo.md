@@ -12,4 +12,5 @@
 - [x] Build responsive, polished interface states with clear loading, empty, error, and interaction feedback.
 - [x] Add automated server-side tests for validation, text chunking, retrieval, citations, and authorization rules.
 - [x] Run type checks and tests, then visually verify desktop and mobile views.
-- [ ] Save a verified project checkpoint and deliver the completed application.
+- [x] Save a verified project checkpoint and deliver the completed application.
+- [x] Rename all visible DocuMind branding and application metadata to DocAI.
