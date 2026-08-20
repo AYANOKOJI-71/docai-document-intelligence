@@ -117,7 +117,7 @@ Potential future improvements include OCR support, embedding-based retrieval wit
 
 ## Project status
 
-DocAI is an actively refined portfolio project. It is intended to demonstrate full-stack application development, secure user-scoped data handling, document processing, retrieval-augmented generation, and evidence-aware AI interaction.
+DocAI is intended to demonstrate full-stack application development, secure user-scoped data handling, document processing, retrieval-augmented generation, and evidence-aware AI interaction.
 
 ## Author
 
